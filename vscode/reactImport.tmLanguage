@@ -1,0 +1,7 @@
+"React Import": {
+  "prefix": "ReactImport",
+  "body": [
+    "import React${1:, { useState, useEffect \}} from 'react';"
+  ],
+  "description": "React Import"
+}

@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+${1:export }const ${2:C} = ({ ${3:className} }) => (
+    <div className={className} />${4}
+);
+
+]]></content >
+  <description>Component</description>
+  <tabTrigger>COMP</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope >source.python</scope > -->
+</snippet >
